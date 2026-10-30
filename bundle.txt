@@ -1,0 +1,6 @@
+Acc-acs-exo-skeleton
+gg-viewer-ui
+BIM360Ent
+acc-data-transition-tool-fe
+gg-quantification-ui-web
+BIM360-notifications
